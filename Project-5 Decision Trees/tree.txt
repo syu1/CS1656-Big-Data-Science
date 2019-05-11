@@ -1,0 +1,12 @@
+
+color black: bad (2) 
+color blue
+|   fruit blueberries: good (2) 
+|   fruit grapes: bad (1) 
+color green
+|   fruit blueberries: bad (2) 
+|   fruit grapes: good (2) 
+color red
+|   fruit blueberries: bad (1) 
+|   fruit grapes: good (1) 
+
